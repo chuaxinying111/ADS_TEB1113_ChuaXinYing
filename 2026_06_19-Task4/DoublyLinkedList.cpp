@@ -1,4 +1,4 @@
-//Lab 4: Doubly Linked List
+//Lab 4: Task 1:  Doubly Linked List
 
 #include<iostream>
 #include<string>
