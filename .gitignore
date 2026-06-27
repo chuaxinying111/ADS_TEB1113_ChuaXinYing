@@ -1,0 +1,25 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# Build folders
+build/
+bin/
+
+# Temporary files
+*.log
+*.tmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
