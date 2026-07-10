@@ -22,3 +22,11 @@ Author:Chua Xin Ying
 - Task 2: Stack using Array
 - Task 3: Queue using Linked List
 - Task 4: Queue using Array
+
+### 2026_07_03-Lab6 : Binary Tree and Binary Search Tree (BST)
+- Task 1: Binary Tree
+- Task 2: Binary Search Tree
+
+### 2026_07_10-Lab7 : Graph (Dijkstra's Algorithm)
+- Task 1: Dijkstra's Algorithm
+
