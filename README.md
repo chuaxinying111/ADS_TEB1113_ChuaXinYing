@@ -2,7 +2,7 @@
 Author:Chua Xin Ying
 ## Repository Structure
 
-### 2026_05_29-Lab 1 : Student Information
+### 2026_05_29-Lab1 : Student Information
 - Task 1: Student
 
 ### 2026_06_05-Lab2 : Matrix Problems
