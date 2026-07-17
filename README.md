@@ -30,3 +30,10 @@ Author:Chua Xin Ying
 ### 2026_07_10-Lab7 : Graph (Dijkstra's Algorithm)
 - Task 1: Dijkstra's Algorithm
 
+### 2026_07_17-Lab 8: Sorting Algorithm
+- Task 1: Bubble Sort
+- Task 2: Insertion Sort
+- Task 3: Selection Sort
+- Task 4: Merge Sort
+- Task 5: Quick Sort
+
