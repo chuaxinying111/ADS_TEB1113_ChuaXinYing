@@ -59,8 +59,7 @@ void merge(int arr[],int left,int mid,int right){
 // MergeSort: keep dividing the array into samller halves,
 // then merge tham back in sorted order.
 void mergeSort(int arr[],int left,int right){
-    //Base Case:if there is only one element(or none),
-    //the array is already sorted
+    // base case: 0 or 1 element is already sorted
     if(left>=right) 
         return;   
 
